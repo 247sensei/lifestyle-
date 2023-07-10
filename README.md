@@ -5,12 +5,12 @@ Help users keep track of there fitness and help the user reach their fitness goa
 Features to add 
 
 Home Page
-Generate workout plans
-generate diet plans 
-generate brain training activities, 
+- Generate workout plans
+- generate diet plans 
+- generate brain training activities, 
 
 Fitness Page 
-Profile
-weight tracker
-step tracker 
-users info 
+- Profile
+- weight tracker
+- steps tracker 
+- users info 
