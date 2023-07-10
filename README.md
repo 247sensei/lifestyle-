@@ -1,5 +1,7 @@
 # lifestyle-
 
+React Native Application 
+
 Help users keep track of there fitness and help the user reach their fitness goals
 
 Features to add 
